@@ -1,0 +1,30 @@
+{
+  "name": "Bootstrap-4-Project",
+  "version": "1.0.0",
+  "description": "This repo contains the use of Bootstrap 4 framework and how to set up gulp file for normal tasks during development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inglehemant426/Bootstrap-4-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inglehemant426/Bootstrap-4-Project/issues"
+  },
+  "homepage": "https://github.com/inglehemant426/Bootstrap-4-Project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}

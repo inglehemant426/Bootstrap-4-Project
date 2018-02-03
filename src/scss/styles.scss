@@ -1,0 +1,12 @@
+// Variable overrides -  we can override bootstrap variable
+$body-bg : #ededed;
+$theme-colors: (
+    "primary": #d95700
+);
+
+.jumbotron{
+  background: #fff !important;
+}
+// Bootstrap Sass Files
+//@import "../css/bootstrap";
+@import "node_modules/bootstrap/scss/bootstrap";
